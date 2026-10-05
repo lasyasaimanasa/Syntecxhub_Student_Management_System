@@ -1,28 +1,28 @@
 # Student Management System
 
-A simple command-line based Student Management System developed using Python and Object-Oriented Programming concepts.
+A Python-based command-line Student Management System developed using Object-Oriented Programming, file handling, input validation, and JSON data persistence.
 
 This project was developed as part of the Syntecxhub internship project requirements.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
-The Student Management System is a CLI-based Python application that allows users to manage student records efficiently.
+The Student Management System is a command-line application that allows users to manage student records efficiently.
 
-The application supports adding, updating, deleting, searching, and displaying student records.
+The application provides functionality to add, update, delete, search, and display student records.
 
-Student data is stored persistently in a JSON file, so the records remain available even after the program is closed.
+Student information is stored in a JSON file, allowing data to remain available even after the application is closed.
 
 ---
 
-## ✨ Features
+## Features
 
 - Add new student records
 - Update existing student records
 - Delete student records
-- Display all students
-- Search students by ID
+- Display all student records
+- Search students by Student ID
 - Unique Student ID validation
 - Student name validation
 - Grade validation
@@ -30,11 +30,11 @@ Student data is stored persistently in a JSON file, so the records remain availa
 - JSON-based data persistence
 - Formatted command-line interface
 - Object-Oriented Programming structure
-- File handling using JSON
+- File handling
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - JSON
@@ -42,14 +42,14 @@ Student data is stored persistently in a JSON file, so the records remain availa
 - File Handling
 - Command Line Interface (CLI)
 - Visual Studio Code
+- Git and GitHub
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Syntecxhub_Student_Management_System/
-│
 ├── main.py
 ├── student.py
 ├── student_manager.py
