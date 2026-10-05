@@ -1,0 +1,27 @@
+[
+    {
+        "id": "S001",
+        "name": "Lasya",
+        "grade": "A"
+    },
+    {
+        "id": "S002",
+        "name": "Ananya",
+        "grade": "B+"
+    },
+    {
+        "id": "S003",
+        "name": "Rahul",
+        "grade": "A+"
+    },
+    {
+        "id": "S004",
+        "name": "Priya",
+        "grade": "B"
+    },
+    {
+        "id": "S005",
+        "name": "Arjun",
+        "grade": "C+"
+    }
+]
